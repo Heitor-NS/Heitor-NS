@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do torror1 
+## Bem-vindo(a) ao perfil do Heitor N
 
  <div>
    <a href="https://github.com/torror1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=torror1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torror1&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitor N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor N&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
