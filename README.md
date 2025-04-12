@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do Heitor N
 
  <div>
-   <a href="https://github.com/torror1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitor N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/heitor-N">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitor-N N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor N&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
